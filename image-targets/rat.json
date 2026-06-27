@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 0,
+    "left": 90,
+    "width": 540,
+    "height": 720,
+    "isRotated": false,
+    "originalWidth": 720,
+    "originalHeight": 720
+  },
+  "imagePath": "image-targets/rat_luminance.png",
+  "metadata": null,
+  "name": "rat",
+  "resources": {
+    "originalImage": "rat_original.png",
+    "croppedImage": "rat_cropped.png",
+    "thumbnailImage": "rat_thumbnail.png",
+    "luminanceImage": "rat_luminance.png"
+  },
+  "created": 1782559164037,
+  "updated": 1782559164037
+}
